@@ -6,7 +6,7 @@
 
 ## :rocket: Sobre a aplicação
 
-Aplicação desenvolvida em React que tem como principal objetivo a introdução do Vite:
+Aplicação desenvolvida em React que tem como principal objetivo a introdução do Vite
 
 ### Tech Stack
 
@@ -14,4 +14,4 @@ Aplicação desenvolvida em React que tem como principal objetivo a introdução
 - Babel
 - Webpack
 
-Desenvolvido da trilha de React da Rocketseat.
+Desenvolvido na trilha de React da Rocketseat
